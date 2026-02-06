@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 15,
+  "workbench.colorCustomizations": {},
+  "vscode-pets.theme": "beach",
+  "vscode-pets.throwBallWithMouse": true,
+  "vscode-pets.petType": "dog",
+  "vscode-pets.petSize": "medium",
+  "vscode-pets.disableEffects": false,
+  "vscode-pets.petColor": "black"
+}
